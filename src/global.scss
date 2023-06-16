@@ -1,0 +1,44 @@
+:root {
+  --mobile-max-width: 375px;
+  --desktop-max-width: 1440px;
+
+  --primary: hsl(25, 97%, 53%);
+  --card-bg: #19202a;
+  --white: hsl(0, 0%, 100%);
+  --light-grey: hsl(217, 12%, 63%);
+  --medium-grey: hsl(216, 12%, 54%);
+  --dark-blue: hsl(213, 19%, 18%);
+  --very-dark-blue: hsl(216, 12%, 8%);
+
+  --paragraph: 15px;
+}
+
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Overpass', sans-serif;
+  font-size: var(--paragraph);
+  font-weight: 400;
+  color: var(--white);
+  background-color: var(--very-dark-blue);
+  display: grid;
+  place-content: center;
+  height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+button {
+  font-family: 'Overpass', sans-serif;
+  font-weight: 400;
+  color: var(--white);
+}
+
+main {
+  max-width: var(--desktop-max-width);
+}
