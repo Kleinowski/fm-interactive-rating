@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://imgur.com/I3Pd9sV)
-![](https://imgur.com/v6Vpud6)
+![](https://i.imgur.com/I3Pd9sV.png)
+![](https://i.imgur.com/v6Vpud6.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI/hub)
+- Live Site URL: [Add live site URL here](https://fm-interactive-rating-kohl.vercel.app/)
 
 ## My process
 
@@ -43,8 +43,9 @@ Users should be able to:
 - CSS Modules
 - SASS
 - Vite
+- TypeScript
 - [React](https://reactjs.org/) - JS library
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Kleinowski)
